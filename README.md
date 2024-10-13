@@ -1,3 +1,3 @@
 # Special neovim configuration for termux
     
-Thanks for reading!
+Thank you for your attention!
